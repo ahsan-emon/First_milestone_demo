@@ -1,0 +1,134 @@
+@media only screen and (max-width: 991px) {
+    .fir_create_btr_des{
+        margin-top: 60px;
+        margin-bottom: 60px;
+      }
+      .fir_create_btr_des .sec_tit_1{
+        padding-bottom: 50px;
+     }
+     .fir_create_btr_des .sec_tit_1 h1{
+       font-size: 45px;
+       margin-bottom: 20px;
+     }
+     .fir_create_btr_des .sec_tit_1 p{
+       font-size: 17px;
+     }
+     .fir_create_btr_des .fir_sec_cont .fir_days{
+       font-size: 13px;
+       padding-top: 20px;
+     }
+     .fir_create_btr_des .fir_sec_cont h3{
+       font-size: 18px;
+       padding: 10px 0;
+     }
+     .fir_create_btr_des .fir_sec_cont .fir_cont_desc{
+       font-size: 14px;
+     }
+     .fir_create_btr_des .fir_sec_btn{
+       margin-top: 50px;
+     }
+     .fir_create_btr_des .fir_sec_btn button:first-child{
+       margin-right: 25px;
+     }
+     .fir_create_btr_des .fir_sec_btn button{
+       font-size: 14px;
+       padding: 12px 50px;
+     }
+     .sec_out_prod_des .sec_showcase{
+        padding: 20px 0 6px 0;
+      }
+      .sec_out_prod_des .sec_sec_cont h3{
+        padding: 0;
+      }
+}
+@media only screen and (max-width: 767px) {
+    .fir_create_btr_des{
+        margin-top: 50px;
+        margin-bottom: 50px;
+      }
+      .fir_create_btr_des .sec_tit_1{
+        padding-bottom: 40px;
+     }
+     .fir_create_btr_des .sec_tit_1 h1{
+       font-size: 35px;
+     }
+     .fir_create_btr_des .sec_tit_1 p{
+       font-size: 15px;
+     }
+     .fir_create_btr_des .fir_sec_btn{
+       margin-top: 40px;
+     }
+     .fir_create_btr_des .fir_sec_btn button:first-child{
+       margin-right: 20px;
+     }
+     .fir_create_btr_des .fir_sec_btn button{
+       font-size: 14px;
+       padding: 12px 40px;
+     }
+}
+@media only screen and (max-width: 575px) {
+    .fir_create_btr_des{
+        margin-top: 40px;
+        margin-bottom: 40px;
+      }
+      .fir_create_btr_des .sec_tit_1{
+        padding-bottom: 30px;
+     }
+     .fir_create_btr_des .sec_tit_1 h1{
+       font-size: 30px;
+     }
+     .fir_create_btr_des .sec_tit_1 p{
+       font-size: 14px;
+     }
+     .fir_create_btr_des .fir_sec_btn{
+       margin-top: 30px;
+     }
+     .fir_create_btr_des .fir_sec_btn button:first-child{
+       margin-right: 0px;
+       margin-bottom: 10px;
+     }
+     .fir_create_btr_des .fir_sec_btn button{
+       font-size: 13px;
+     }
+     .sec_out_prod_des .sec_showcase{
+        padding: 10px 0 6px 0;
+      }
+}
+@media only screen and (max-width: 398px) {
+    .fir_create_btr_des{
+        margin-top: 30px;
+        margin-bottom: 30px;
+      }
+      .fir_create_btr_des .sec_tit_1{
+        padding-bottom: 20px;
+     }
+     .fir_create_btr_des .sec_tit_1 h1{
+       font-size: 20px;
+     }
+     .fir_create_btr_des .sec_tit_1 p{
+       font-size: 13px;
+     }
+     .fir_create_btr_des .fir_sec_cont .fir_days{
+        font-size: 13px;
+        padding-top: 15px;
+      }
+      .fir_create_btr_des .fir_sec_cont h3{
+        font-size: 14px;
+        padding: 7px 0;
+      }
+      .fir_create_btr_des .fir_sec_cont .fir_cont_desc{
+        font-size: 13px;
+      }
+     .fir_create_btr_des .fir_sec_btn{
+       margin-top: 20px;
+     }
+     .sec_out_prod_des .sec_showcase{
+        padding: 10px 0 5px 0;
+      }
+      .sec_out_prod_des .sec_sec_cont h3{
+        padding: 0;
+      }
+}
+@media only screen and (max-width: 350px) {
+    
+}
